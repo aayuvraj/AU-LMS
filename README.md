@@ -1,7 +1,8 @@
 # AU LMS(Library Management System)
 
 CSC300 Software Engineering Project
-![index](index.png)
+
+![index](index.jpg)
 
 ## Stakeholders identified for the system:
 
